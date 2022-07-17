@@ -2,7 +2,7 @@
 
 Если вы видите это, пожалуйста, помогите зажечь звезды на всех моих складах, спасибо！
 
-![](https://img.shields.io/badge/develop-Linux0.11-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/study-Linux0.11-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/language-python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/language-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/language-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
