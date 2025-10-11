@@ -1,5 +1,5 @@
 # 
-![Visitor Count](https://profile-counter.glitch.me/wr0x00/count.svg)
+
 [](https://img.shields.io/badge/study-Linux0.11-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 [](https://img.shields.io/badge/language-python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 [](https://img.shields.io/badge/language-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
