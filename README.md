@@ -37,6 +37,16 @@ Traditional application and web security, vulnerability research, and authorized
 - **[Lizard](https://github.com/wr0x00/Lizard)** — A Python-based integrated toolkit for web security testing.
 - **[AutoHunter](https://github.com/wr0x00/AutoHunter)** — An automated security research system combining asset mapping with collaborative LLM workers.
 
+## ⭐ Star Power
+
+<div align="center">
+
+[![GitHub Stars](https://github-readme-stats.vercel.app/api?username=wr0x00&show=stars&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/wr0x00?tab=repositories)
+
+*Every star fuels the next build — thanks for the support!*
+
+</div>
+
 ## Contact
 
 Open to technical collaboration and opportunities in AI security, AI-enabled security engineering, and cybersecurity.
