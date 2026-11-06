@@ -6,9 +6,6 @@
 
 Researching the security of AI systems and applying AI to practical security engineering. I build security tooling and share technical notes, experiments, and lessons learned along the way.
 
-[![GitHub](https://img.shields.io/badge/GitHub-wr0x00-181717?style=flat&logo=github)](https://github.com/wr0x00)
-[![Email](https://img.shields.io/badge/Email-wr0x00%40yeah.net-0078D4?style=flat&logo=maildotru&logoColor=white)](mailto:wr0x00@yeah.net)
-
 </div>
 
 ---
@@ -36,14 +33,6 @@ Traditional application and web security, vulnerability research, and authorized
 - **[Lsploit](https://github.com/wr0x00/Lsploit)** — An asset discovery and vulnerability scanning framework.
 - **[Lizard](https://github.com/wr0x00/Lizard)** — A Python-based integrated toolkit for web security testing.
 - **[AutoHunter](https://github.com/wr0x00/AutoHunter)** — An automated security research system combining asset mapping with collaborative LLM workers.
-
-## ⭐ Star Power
-
-<div align="center">
-
-[![GitHub Stars](https://github-readme-stats.vercel.app/api?username=wr0x00&show=stars&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/wr0x00?tab=repositories)
-
-*Every star fuels the next build — thanks for the support!*
 
 </div>
 
