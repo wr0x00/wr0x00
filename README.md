@@ -10,7 +10,7 @@ Researching the security of AI systems and applying AI to practical security eng
 
 ---
 
-## Focus Areas
+## Focus on
 - Security for AI
 - AI for Security
 - Traditional Cybersecurity
