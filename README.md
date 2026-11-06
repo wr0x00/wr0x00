@@ -1,15 +1,6 @@
-<div align="center">
 
 # 👋 Hi, I'm wr0x00
-
 ### Independent Sec Researcher
-
-Researching the security of AI systems and applying AI to practical security engineering. I build security tooling and share technical notes, experiments, and lessons learned along the way.
-
-</div>
-
----
-
 ## Focus on
 - Security for AI
 - AI for Security
@@ -22,8 +13,6 @@ Researching the security of AI systems and applying AI to practical security eng
 - **[Lsploit](https://github.com/wr0x00/Lsploit)** — An asset discovery and vulnerability scanning framework.
 - **[Lizard](https://github.com/wr0x00/Lizard)** — A Python-based integrated toolkit for web security testing.
 - **[AutoHunter](https://github.com/wr0x00/AutoHunter)** — An automated security research system combining asset mapping with collaborative LLM workers.
-
-</div>
 
 ## Contact
 Open to technical collaboration and opportunities in AI security, AI-enabled security engineering, and cybersecurity.
