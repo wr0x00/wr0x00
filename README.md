@@ -17,7 +17,7 @@ Researching the security of AI systems and applying AI to practical security eng
 
 ### Security for AI
 
-Security, robustness, and trustworthiness of AI systems, with a focus on LLM applications and AI agents. Topics include prompt injection, jailbreaks, insecure tool use, and security assessment of AI-enabled applications.
+Security, robustness, and trustworthiness of AI systems, with a focus on LLM applications and AI agents. Topics include prompt injection, jailbreaks, insecure tool use, and security assessment of AI systems.
 
 ### AI for Security
 
@@ -26,6 +26,11 @@ Applying AI and agentic workflows to cybersecurity practice, including vulnerabi
 ### Cybersecurity Engineering
 
 Traditional application and web security, vulnerability research, and authorized security testing. I also develop practical, extensible security tools and automation, primarily with Python.
+
+## Currently Active Projects
+
+- **[fuckai](https://github.com/wr0x00/fuckai)** — An LLM security testing project focused on prompt injection, jailbreaks, and reasoning hijacking.
+- **[ai_bobao](https://github.com/wr0x00/ai_bobao)** — An AI-powered vulnerability intelligence platform for collecting public vulnerability information and generating structured reports.
 
 ## Selected Projects
 
