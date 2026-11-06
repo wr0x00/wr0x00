@@ -11,5 +11,4 @@
 - **[Lsploit](https://github.com/wr0x00/Lsploit)** — An asset discovery and vulnerability scanning framework.
 - **[Lizard](https://github.com/wr0x00/Lizard)** — A Python-based integrated toolkit for web security testing.
 ## Contact
-Open to technical collaboration and opportunities in AI security, AI-enabled security engineering, and cybersecurity.
-📮 **Email: [wr0x00@yeah.net](mailto:wr0x00@yeah.net)**
+I am looking for relevant job opportunities. If you are interested in me, please feel free to contact **Email: [wr0x00@yeah.net](mailto:wr0x00@yeah.net)**
